@@ -121,13 +121,6 @@ python main.py
 - Проверьте разрешение экрана (рекомендуется 1920x1080+)
 - При проблемах с шрифтами установите Consolas
 
-## 🤝 Вклад в проект
-
-1. Форкните репозиторий
-2. Создайте ветку для новой функции (`git checkout -b feature/amazing-feature`)
-3. Зафиксируйте изменения (`git commit -m 'Add amazing feature'`)
-4. Отправьте в ветку (`git push origin feature/amazing-feature`)
-5. Откройте Pull Request
 
 ## 📄 Лицензия
 
